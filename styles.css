@@ -160,8 +160,16 @@ h3 {
 	word-break: break-all;
 }
 
-	
-
+.text-justify
+{
+	text-align: justify;
+	padding:0 0 1em; 
+}	
+.form-grant
+{
+	font-size:1.5em;
+	padding:1em 0 1.5em;  
+}
 
 figure {
 	margin: 1.25em 0;
